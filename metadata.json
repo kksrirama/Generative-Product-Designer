@@ -1,0 +1,5 @@
+{
+  "name": "Generative Product Designer",
+  "description": "Upload a product image and provide a text prompt to generate and analyze new design variations using Gemini. Get up to four new designs with a breakdown of their pros and cons.",
+  "requestFramePermissions": []
+}
